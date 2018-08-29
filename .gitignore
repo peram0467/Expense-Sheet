@@ -1,4 +1,4 @@
-.gradle
+git.gradle
 src/main/javascript/.vscode
 src/main/javascript/lib
 src/main/javascript/node_modules
